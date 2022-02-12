@@ -9,9 +9,6 @@
     "lint": "eslint .  --ext .js",
     "lint-fix": "eslint --fix .  --ext .js"
   },
-  "husky": {
-    "pre-commit": "echo testw2"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
