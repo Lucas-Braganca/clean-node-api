@@ -10,7 +10,7 @@
     "lint-fix": "eslint --fix .  --ext .js"
   },
   "husky": {
-    "pre-commit": "echo test"
+    "pre-commit": "echo testw2"
   },
   "keywords": [],
   "author": "",
