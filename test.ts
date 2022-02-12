@@ -1,3 +1,3 @@
-function test(): {a: string} {
-  return{a: "1" }
+function teste(): {a: string} {
+  return{a: '1' };
 }
