@@ -8,6 +8,9 @@
     "lint": "eslint .  --ext .js",
     "lint-fix": "eslint --fix .  --ext .js"
   },
+  "husky": {
+    "pre-commit": "echo test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
